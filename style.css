@@ -1,0 +1,66 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	font-family:Segoe UI;
+	color:#DDD;
+	font-weight:bold;
+}
+
+.container{
+	/*background-color:#454545; */
+	background-color:#222;
+	height:100%;
+	width:120%;
+	padding-top:50px;
+}
+
+.content{
+	background-color:#222;
+	margin-left:50px;
+	margin-right:50px;
+	padding:20px;
+	width:520px;
+}
+
+.time{
+	font-family:Segoe UI;
+	font-size:100px;
+	color:#DDD;
+	font-weight:bold;
+	text-align:center;
+}
+
+.timeBig{
+	font-family:Segoe UI;
+	font-size:200px;
+	color:#DDD;
+	font-weight:bold;
+}
+
+.date{
+	margin-bottom:20px;
+	text-align:center;
+}
+
+
+.twitter{
+	margin-top:20px;
+}
+
+.dateBox{
+	padding:20px;
+	color:#DDD;
+	background-color: #333;
+	
+}
+
+#currentDay{
+	background-color:blue;
+}
+
+.forecast{
+	margin-left:20px;
+}
